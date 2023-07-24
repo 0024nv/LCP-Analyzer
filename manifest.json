@@ -1,0 +1,9 @@
+{
+    "name": "LCP Analyzer",
+    "description": "LCP Analyzer is an extension to monitor Largest Contentful Paint of webpage. It serve as diagnostic tools by breaking down the LCP metric into its key components, such as Time to First Byte, Resource Load Delay, Resource Load Time, and Element Render Delay. This breakdown allows users to identify the specific stages in the loading process that contribute the most to LCP and helps pinpoint potential performance bottlenecks.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [],
+    "host_permissions": [],
+    "key": "iUiiRf2gGoOtmYqOv5FHoLoxFisn2VaB"
+}
