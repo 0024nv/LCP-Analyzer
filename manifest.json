@@ -5,5 +5,10 @@
     "manifest_version": 3,
     "permissions": [],
     "host_permissions": [],
+    "action": {
+        "default_title": "LCP Analyzer",
+        "default_icon": "assets/LCP_logo.png",
+        "default_popup": "popup.html"
+    },
     "key": "iUiiRf2gGoOtmYqOv5FHoLoxFisn2VaB"
 }
