@@ -5,6 +5,12 @@
     "manifest_version": 3,
     "permissions": [],
     "host_permissions": [],
+    "content_scripts": [
+        {
+            "js": ["content.js"],
+            "matches": ["https://*/*"]
+        }
+    ],
     "action": {
         "default_title": "LCP Analyzer",
         "default_icon": "assets/LCP_logo.png",
